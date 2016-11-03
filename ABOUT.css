@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC|Poiret+One|Rajdhani|Raleway");
+@import url("font-awesome.min.css");
+@import url("RIP_SAVITAPALL/IMG_9808.JPG");
+
+html, body{
+	margin: 0;
+	padding: 0;
+	background-size: cover;
+	background-color: #3CB371;
+}
+
+.container{
+	max-width: 1000px
+	margin: 0 auto;
+	padding: 0 ;
+}
+
+.nav {
+	border-style: none; 
+	background-color: rgba(143, 188, 143, 0.5);
+}
+
+.nav {
+	margin: 0;
+	overflow-y: auto;
+	text-align:right ;
+	padding: 20px;
+	z-index: 100; position: fixed; 
+	width: 100%;
+}
+
+.nav li{
+	color: #333;
+	display: inline;
+	font-family: Rajdhani;
+	font-size: 18px;
+	text-transform: uppercase;
+	margin: 10;
+	margin-right: 100px;
+}
+
+.nav h3{
+	color: #FFF;
+	display: inline;
+	font-family: Rajdhani;
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-right: 100px;
+	padding-left: 0;
+}
+
+.image img{
+	border-style: solid;
+	border-color: #FFF;
+	border-radius: 100%;
+}

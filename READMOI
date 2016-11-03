@@ -1,0 +1,5 @@
+READMOI
+opacity rgba() value
+example : h1 {
+  color: rgba(123, 88, 9, 0.5); <---0.5 IS THE OPACITY
+}
